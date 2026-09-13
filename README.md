@@ -13,3 +13,5 @@
 1. تشغيل السيرفر (Backend):
 ```bash
 python main.py
+
+The live preview showcases the interactive UI. To test the prediction feature locally, run main.py to start the FastAPI backend
